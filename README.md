@@ -26,4 +26,6 @@ pip install pillow
 python main.py
 ```
 
-[PNG Logo Link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fsquare-logo&psig=AOvVaw0k1hfqII8lalw8QtPmsXh-&ust=1609398439909000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjjrsSS9e0CFQAAAAAdAAAAABAD)
+[PNG Logo Link](https://pixabay.com/illustrations/orange-circle-logo-round-element-1618917/)
+
+![](tk_login_SS.png)
